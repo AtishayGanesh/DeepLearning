@@ -1,0 +1,12 @@
+LSTM Test Set Accuracy:96.72\%
+Predicted Class [9, 5, 9, 3, 9]
+Actual Class [9 5 9 3 9]
+Bidirectional LSTM Test Set Accuracy:95.64\%
+Predicted Class [8,5,0,5,1]
+Actual Class [8 5 0 5 1]
+RNN Test Set Accuracy:95.6\%
+Predicted Class [7,2,0,6,3]
+Actual Class [7 2 0 6 3]
+Bidirectional RNN Test Set Accuracy:95.53\%
+Predicted Class [4,1,6,2,7]
+Actual Class [4 1 6 2 7]

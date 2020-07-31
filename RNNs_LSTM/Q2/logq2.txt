@@ -1,0 +1,66 @@
+Memory Size 2: Acc 25.5%
+
+Input Sequence [3 6 1 4 0 1 4 0]
+Prediction for second element: 3
+Actual second element: 6
+
+Input Sequence [6 7 1 1 5 9 4 6 3]
+Prediction for second element: 7
+Actual second element: 7
+
+Input Sequence [7 4 5 5 3 1 1 0]
+Prediction for second element: 7
+Actual second element: 4
+
+Input Sequence [8 7 7 6 7 7 1]
+Prediction for second element: 7
+Actual second element: 7
+
+Input Sequence [8 4 1 0 5 4]
+Prediction for second element: 7
+Actual second element: 4
+
+
+Memory Size 5: Acc 100%
+
+Input Sequence [5 8 6 1 5 4 1]
+Prediction for second element: 8
+Actual second element: 8
+
+Input Sequence [7 4 5 9 4 3 2 3 3 3]
+Prediction for second element: 4
+Actual second element: 4
+
+Input Sequence [8 0 1 5 2 4 7 4 9]
+Prediction for second element: 0
+Actual second element: 0
+
+Input Sequence [7 3 9 9 3 6 1 4 2]
+Prediction for second element: 3
+Actual second element: 3
+
+Input Sequence [4 1 9 2 3 5]
+Prediction for second element: 1
+Actual second element: 1
+
+Memory Size 10: Acc 100%
+
+Input Sequence [1 2 2 0 6]
+Prediction for second element: 2
+Actual second element: 2
+
+Input Sequence [9 3 6 9 8 6]
+Prediction for second element: 3
+Actual second element: 3
+
+Input Sequence [7 2 0 9 6 0]
+Prediction for second element: 2
+Actual second element: 2
+
+Input Sequence [9 5 9 5 3 1 5 6]
+Prediction for second element: 5
+Actual second element: 5
+
+Input Sequence [7 9 0 2 8 3 2 7]
+Prediction for second element: 9
+Actual second element: 9
